@@ -10,7 +10,7 @@
 
 <!-- YOUTUBE:START -->
 - [Visualization in image classification.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
-- [Full Pytorch training pipeline on image classification task.](https://www.youtube.com/watch?v=tfYR8JMt0xA)
+- [Full Pytorch Training Pipeline on Image Classification](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 <!-- YOUTUBE:END -->
 
 ## **✍️ Documentation:**
