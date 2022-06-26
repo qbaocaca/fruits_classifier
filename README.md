@@ -1,7 +1,7 @@
 # FruitsClassifier on Fruits 360
 
 <div align="center">
-  <img alt="baocaca | fired_neuron" src="https://i.gifer.com/o8L.gif" />
+  <img alt="baocaca | fruits_gif" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ff09206-abe7-4bd5-9fcb-d7f039a12d92/d9icx2p-3019cef5-c78c-41c3-a1b5-1a064c3f1ee3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmZjA5MjA2LWFiZTctNGJkNS05ZmNiLWQ3ZjAzOWExMmQ5MlwvZDlpY3gycC0zMDE5Y2VmNS1jNzhjLTQxYzMtYTFiNS0xYTA2NGMzZjFlZTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TRXDHmIY3GAuDNY6EDzekCWcfye8KrHx29ZLsoli3Ao" />
 </div>
 
 ### _On this project, I build a classifier on the Fruits 360 dataset using Pytorch. I use a pretrained model and transfer learning, as well as do hyper-parameter search to help increase the accuracy._
@@ -9,9 +9,8 @@
 ## 📺 **Youtube Videos:**
 
 <!-- YOUTUBE:START -->
-
-- [Visualize images in image classification task.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
-- [Full Pytorch training pipeline on image classification task.](https://www.youtube.com/watch?v=tfYR8JMt0xA)
+- [Visualization in image classification.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
+- [Full Pytorch Training Pipeline on Image Classification](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 <!-- YOUTUBE:END -->
 
 ## **✍️ Documentation:**
@@ -48,7 +47,7 @@
 
 &nbsp;
 
-## **Single fruit batch visualization**
+## **Single fruit visualization**
 
 ![singbatch](images/Fruits3.JPG)
 
