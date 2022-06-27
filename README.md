@@ -17,7 +17,7 @@
 
 ### - _Full Training on [Kaggle] | GoogleNet | 94% Acc_
 
-### - _Efficient Training with Pytorch Lightning_
+### - _Efficient Training with [Pytorch Lightning]_
 
 &nbsp;
 
@@ -94,3 +94,4 @@
 ![lossacc](images/pred.JPG)
 
 [kaggle]: https://www.kaggle.com/code/alevi0989/fruits-360-googlenet-94-acc
+[Pytorch Lightning]: https://qbaocaca.github.io/fruits_clf_lightning/
