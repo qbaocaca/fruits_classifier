@@ -11,6 +11,7 @@
 <!-- YOUTUBE:START -->
 - [Visualization in image classification.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
 - [Full Pytorch Training Pipeline on Image Classification](https://www.youtube.com/watch?v=tfYR8JMt0xA)
+- [Chọn 1 tụ bài: Tình yêu bao giờ mới tới? &lpar;dành cho người độc thân&rpar;](https://www.youtube.com/watch?v=RM6eOxquOvo)
 <!-- YOUTUBE:END -->
 
 ## **✍️ Documentation:**
