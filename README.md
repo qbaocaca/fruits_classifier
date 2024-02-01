@@ -9,7 +9,6 @@
 ## 📺 **Youtube Videos:**
 
 <!-- YOUTUBE:START -->
-- [學長身材太好了，他害羞不敢看 🥰 中国电视剧](https://www.youtube.com/watch?v=WRF-Vafimaw)
 - [Visualization in image classification.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
 - [Full Pytorch Training Pipeline on Image Classification](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 - [Chọn 1 tụ bài: Tình yêu bao giờ mới tới? &lpar;dành cho người độc thân&rpar;](https://www.youtube.com/watch?v=RM6eOxquOvo)
